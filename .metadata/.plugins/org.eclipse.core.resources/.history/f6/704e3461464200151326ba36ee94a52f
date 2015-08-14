@@ -1,0 +1,16 @@
+1. Sattolo.java
+第68行StdIn.readAllStrings()方法
+当输入什么字符时，才会停止从控制台中读取数据？
+re：eclipse里面控制台的话用ctrl+z；在命令行里面目前还不知道怎么停止；
+
+
+
+2.StdStats.java
+main函数中输入1 2 3 4 5；
+输出的结果如何解释？
+re: 先输入数字的大小N，回车后在输入N个双精度的数，然后回车就返回最小值最大值什么的
+
+
+
+3.In.java
+第485行，current directory的使用方法？
